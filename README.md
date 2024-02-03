@@ -31,6 +31,12 @@ UrbanStyle is a modern and user-friendly React-based e-commerce application that
 - **Responsive Design**: Enjoy a seamless shopping experience on all devices, from desktops to smartphones.
 
 
+## Future Plan
+
+1. **Product Filters**: Implement advanced filtering options to allow users to narrow down product searches based on various criteria such as price range, category, brand, and more.
+
+2. **Payment through Crypto Wallet**: Explore the integration of cryptocurrency payments, providing users with an alternative and secure method to complete their purchases.
+
 ## Installation and Usage
 
 1. Clone the repository:
@@ -62,6 +68,11 @@ UrbanStyle is a modern and user-friendly React-based e-commerce application that
 
 5. Open your browser and visit `http://localhost:3000` to access UrbanStyle.
 
+
+## LINKS
+
+DEPLOYED LINK : https://tan-x-fi-task.vercel.app/
+CODE LINK : https://github.com/nimishsara12/tanX.fi_Task
 ## Contributing
 
 We welcome contributions to UrbanStyle! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
