@@ -2,6 +2,7 @@
 
 UrbanStyle is a modern and user-friendly React-based e-commerce application that provides a seamless online shopping experience for fashion enthusiasts. With simplified categories, secure authentication using Firebase, real-time database powered by Firebase, and secure payments through Stripe, UrbanStyle is the ultimate destination for trendy shoppers.
 
+#Home Page
 ![alt text](https://i.ibb.co/Bfk7bW5/Ecommerce.png)
 
 ## Features
