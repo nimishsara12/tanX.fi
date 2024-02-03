@@ -7,9 +7,13 @@ UrbanStyle is a modern and user-friendly React-based e-commerce application that
 ![image](https://github.com/nimishsara12/tanX.fi_Task/assets/84761132/8ca85006-035d-446e-9fc8-4180b3dd591b)
 
 
-- ** Login/ Register Page**
+- **Login/ Register Page**
 
   ![image](https://github.com/nimishsara12/tanX.fi_Task/assets/84761132/6a268fc8-6c2a-469f-b135-465ebcddf672)
+
+- **Cart Page**
+
+  ![image](https://github.com/nimishsara12/tanX.fi_Task/assets/84761132/139aaffe-4d56-440f-a15a-e0a6eca7682d)
 
 
 
