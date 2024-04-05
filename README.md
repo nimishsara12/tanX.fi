@@ -71,7 +71,7 @@ UrbanStyle is a modern and user-friendly React-based e-commerce application that
 
 ## LINKS
 
-DEPLOYED LINK : https://tan-x-fi-task.vercel.app/
+DEPLOYED LINK : https://urban-style-react.netlify.app/
 CODE LINK : https://github.com/nimishsara12/tanX.fi_Task
 ## Contributing
 
